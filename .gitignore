@@ -1,0 +1,9 @@
+# Package Files #
+*.apk
+bin/
+bin
+gen/
+gen
+*.project
+.DS_Store
+.classpath
